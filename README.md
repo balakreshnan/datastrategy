@@ -85,7 +85,7 @@ Making a plan is one thing; delivering it is another. So this last step is about
 
 10) KPI measurement
 
-Ability to measuer KPI to govern the above data strategy.
+Ability to measure KPI to govern the above data strategy.
 
 https://www.forbes.com/sites/bernardmarr/2019/03/11/how-to-create-a-data-strategy-7-things-every-business-must-include/#51395739218b
 
