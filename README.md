@@ -2,6 +2,19 @@
 
 Data Strategy
 
+Also the Strategy can be 
+- Centralized Data Strategy
+- De Centralized Data Strategy
+
+Centralized data is very good for Business inteligence, Analytics, AI and ML. Centralized Startegy are hard to be real time but has the advantage of integrating various other business systems data collected in central location. Even systen that can batch load on a scheduled interval varying from hour to days to weeks. Provides ability to combine different systems data into one and has the ability to view data across enterprise footprint.
+
+De centralized data is needed for business operational analytics to take decision on real time basis. They are siloed to business function and provides real time analytics for advanced analytics, AI and ML use cases and also operational reporting needs. Mostly realtime. Operational data stores the business process and it not aggregated.
+
+For enterprise to run their business as usual both has to be present.
+
+Data movement can be reduced by centralized data.
+
+
 1) Business Strategy for data
 
 A good data strategy shouldn’t be created in isolation; it must be driven by your overall business strategy. Therefore, the first step in any data strategy is to consider your organization's strategic priorities and key business questions. Only then can you identify how you might use data to help you deliver those priorities and answer your business questions.
