@@ -37,6 +37,8 @@ Data brings great rewards, but it can also be a serious liability if you don’t
 
 5) Data Lineage
 
+Data is generated in lots of other system and we need to make sure end to end data moving through different systems. Each system will have their own lineage. 
+
 - Where did the data originator?
 - What systems were used to transfer and transform?
 - Who is the owner?
@@ -47,6 +49,8 @@ Data brings great rewards, but it can also be a serious liability if you don’t
 - Risk analysis of data across the lineage?
 
 6) Ethical, Legal, Privacy
+
+Data can be in any form and have to follow regulation in global scale which has to considered for ethical, legal and other privacy concern validation
 
 - How to monitor the data for ethical issues?
 - how is data security practices, protect individual privacy, maintain promised confidentiality, and ensure appropriate access and use?
