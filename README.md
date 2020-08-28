@@ -104,9 +104,27 @@ Ability to measure KPI to govern the above data strategy.
 
 Given global companies need data to be stored in specific countries for their requirement. This pose the most difficulty as, data is stored in distributed countries with boundries and their own law and process. Also data processing has to be done locally to obey the law's of countries.  Data Governance tools should provide country specific in some case state specific lineage and tracking for personal and other important data points.
 
+- How do we find data locality requirements
+- Who is going to be responsible for delivering action/
+- How is this going to be implemented?
+- How will the change management work?
+- What is the operating model
+- How do we track and audit based on data processed.
+- How to work with government to understand their requirements
+- How to help government to validate the process
+
 12) Data Soverignity 
 
 Data laws are based on country specific for PII data and ability to see the lineage. This section is very challenging as privacy, compliance and legal are all involved in this process. Given the global world we live in, respecting country specific laws are very crucial like GDPR, CCPA and others. Ability to audit the lineage and show how the data is going to be used is very crucial. A system that can provide country specific law and it's usage compliance is becoming more prevalent than ever. Data processing systems should be able to report country specific transformation and what they are doing is another key area. 
+
+- How to work with government to define lawa
+- How is reponsible for creating the law?
+- Who is responsible for deliverying actions?
+- How to handle multi department like privacy, security, complaince and governance RACI model
+- How to report breach or non compliance
+- Operating model
+- Corproate Awareness for the data privacy
+- Systems to handle the above
 
 https://www.forbes.com/sites/bernardmarr/2019/03/11/how-to-create-a-data-strategy-7-things-every-business-must-include/#51395739218b
 
