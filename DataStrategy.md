@@ -14,3 +14,5 @@
 
 - This can be a template and change as we progress
 - The above can be changed based on maturity of the organization
+
+- For details please read this https://github.com/balakreshnan/datastrategy/blob/master/README.md
