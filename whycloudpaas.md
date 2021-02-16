@@ -24,7 +24,7 @@
 |     Cost   model                      |  Capex                    |  opex                        |
 |     Value                             |  Iaas                     |  PaaS                        |
 |     Business   model                  |  licensing                |  Subscription model          |
-|     Competitive   market              |  no                       |  yes                         |
+|     Competitive Agility               |  no                       |  yes                         |
 |     Bring   new services              |  slow                     |  faster                      |
 |     Data   driven                     |  low                      |  high                        |
 
