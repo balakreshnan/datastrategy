@@ -11,15 +11,15 @@
 |     Capex                             |  yes                      |  no                          |
 |     Opex                              |  no                       |  yes                         |
 |     Innovation                        |  less                     |  high                        |
-|     Scale                             |  limited                  |  available                   |
+|     Scale                             |  limited                  |  Unlimited                   |
 |     Multi   region                    |  no                       |  yes                         |
 |     Agility   to get new resource     |  slow                     |  fast                        |
 |     Risk                              |  high due to sunken cost  |  low                         |
 |     Administration   cost             |  more                     |  less                        |
 |     Security                          |  low                      |  high                        |
-|     Cost   optimization               |  low                      |  high (since no sunken cost) |
-|     Skills                            |  available                |  needed                      |
-|     Ai                                |  limited                  |  Available as needed         |
+|     Cost   optimization               |  low                      |  high (since no sunk cost)   |
+|     Skills (Technical)                |  available                |  needed                      |
+|     AI/ML/IoT/Blockchain              |  limited                  |  Unlimited                   |
 |     On   demand compute               |  no                       |  yes                         |
 |     Cost   model                      |  Capex                    |  opex                        |
 |     Value                             |  Iaas                     |  PaaS                        |
