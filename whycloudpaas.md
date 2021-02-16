@@ -14,7 +14,7 @@
 |     Scale                             |  limited                  |  Unlimited                   |
 |     Multi   region                    |  no                       |  yes                         |
 |     Agility   to get new resource     |  slow                     |  fast                        |
-|     Risk                              |  high due to sunken cost  |  low                         |
+|     Risk                              |  high due to sunk cost    |  low                         |
 |     Administration   cost             |  more                     |  less                        |
 |     Security                          |  low                      |  high                        |
 |     Cost   optimization               |  low                      |  high (since no sunk cost)   |
